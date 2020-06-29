@@ -1,0 +1,15 @@
+D:\Projetos_Pessoais\desafio_he4rt_vb\He4rt\He4rt\bin\Debug\He4rt.exe.config
+D:\Projetos_Pessoais\desafio_he4rt_vb\He4rt\He4rt\bin\Debug\He4rt.exe
+D:\Projetos_Pessoais\desafio_he4rt_vb\He4rt\He4rt\bin\Debug\He4rt.pdb
+D:\Projetos_Pessoais\desafio_he4rt_vb\He4rt\He4rt\bin\Debug\He4rt.xml
+D:\Projetos_Pessoais\desafio_he4rt_vb\He4rt\He4rt\bin\Debug\MetroFramework.dll
+D:\Projetos_Pessoais\desafio_he4rt_vb\He4rt\He4rt\bin\Debug\MetroFramework.Fonts.dll
+D:\Projetos_Pessoais\desafio_he4rt_vb\He4rt\He4rt\obj\Debug\He4rt.vbprojAssemblyReference.cache
+D:\Projetos_Pessoais\desafio_he4rt_vb\He4rt\He4rt\obj\Debug\He4rt.Form1.resources
+D:\Projetos_Pessoais\desafio_he4rt_vb\He4rt\He4rt\obj\Debug\He4rt.Resources.resources
+D:\Projetos_Pessoais\desafio_he4rt_vb\He4rt\He4rt\obj\Debug\He4rt.vbproj.GenerateResource.cache
+D:\Projetos_Pessoais\desafio_he4rt_vb\He4rt\He4rt\obj\Debug\He4rt.vbproj.CoreCompileInputs.cache
+D:\Projetos_Pessoais\desafio_he4rt_vb\He4rt\He4rt\obj\Debug\He4rt.vbproj.CopyComplete
+D:\Projetos_Pessoais\desafio_he4rt_vb\He4rt\He4rt\obj\Debug\He4rt.exe
+D:\Projetos_Pessoais\desafio_he4rt_vb\He4rt\He4rt\obj\Debug\He4rt.xml
+D:\Projetos_Pessoais\desafio_he4rt_vb\He4rt\He4rt\obj\Debug\He4rt.pdb
